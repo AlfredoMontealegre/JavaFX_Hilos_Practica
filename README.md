@@ -1,2 +1,2 @@
-# PAE-Hilos
-Practica guiada de Hilos en Java, Octubre 12.
+# Practica - JavaFX Hilos
+Alfredo Montealegre | PAE - Grupo 1
